@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tanveer-mohamed
-- 👀 I’m interested in coding and designing .
+- 👀 I’m interested in coding and designing
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on python projects, especially those software development 
 - 📫 How to reach me tanveermohammed703@gmail.com
